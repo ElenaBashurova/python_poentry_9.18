@@ -1,4 +1,4 @@
-python_poentry_9.18
+python_poetry_9.18
 
 Создайте проект, используя poetry. Заполните минимальную мета-информацию в pyproject.toml
 
